@@ -1,8 +1,3 @@
-"""
-This module starts a Flask web application that listens on 0.0.0.0:5000
-and displays 'Hello HBNB!' at the root URL.
-"""
-
 #!/usr/bin/python3
 
 from flask import Flask
